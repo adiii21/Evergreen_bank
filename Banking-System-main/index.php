@@ -32,6 +32,14 @@
     h3{
       color: #b7db27;
     }
+    @media only screen and (orientation: portrait){
+      h1{
+        display: none;
+    }
+    h3{
+      display: none;
+    }
+    }  
     </style>
   </head>
 
