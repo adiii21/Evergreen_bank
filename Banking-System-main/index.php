@@ -39,9 +39,6 @@
     h3{
       display: none;
     }
-    .img-fluid pt-2{
-      width: 200%;
-    }
     }  
     </style>
   </head>
