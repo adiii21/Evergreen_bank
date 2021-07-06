@@ -39,8 +39,8 @@
     h3{
       display: none;
     }
-    .row-md-6{
-      width: 100%;
+    .img-fluid pt-2{
+      width: 200%;
     }
     }  
     </style>
