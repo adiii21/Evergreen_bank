@@ -39,6 +39,9 @@
     h3{
       display: none;
     }
+    .row-md-6{
+      width: 100%;
+    }
     }  
     </style>
   </head>
