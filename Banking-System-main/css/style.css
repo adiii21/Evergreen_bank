@@ -48,9 +48,6 @@ footer p{
 		display:flex;
 		flex-direction: column-reverse;
 	}
-	h1{
-		font-size: 30px;
-	}
 	.act{
 		padding-bottom: 100px;
 	}
